@@ -1,0 +1,1 @@
+{Smartphones=[iPhone X-100000-5-New-A, realme narzo 10pro 5G-19000-2-New-A], Digital Clock=[Quartz-1500-1-New-A]}

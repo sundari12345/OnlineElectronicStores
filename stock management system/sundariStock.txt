@@ -1,0 +1,1 @@
+{Smartphones=[OnePlus 9 Pro-17000-4-New-A, realme narzo 10pro 5G-19000-1-New-A], Tablets=[Samsung Galaxy Tab S7-12000-1-Open Box-A], Watches=[casio-1500-3-New-A], Laptops=[Lenovo ThinkPad X1 Carbon-200000-5-New-A, MacBook Pro-250000-35-New-A]}
